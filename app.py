@@ -1,1 +1,3 @@
-print('hello from gitdemo') 
+print('hello from gitdemo')
+print('scanning target...')
+
